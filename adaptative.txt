@@ -746,17 +746,11 @@ https://chromecast.cvattv.com.ar/live/c7eds//AEHD/SA_Live_dash_enc_2A/AEHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=58761c7b2819491eb3a0d765842c341a:9dabc48f88bd7f266734e57501bd6f47
 https://chromecast.cvattv.com.ar/live/c6eds/TLC/SA_Live_dash_enc_2A/TLC.mpd
 
-#EXTINF:-1 tvg-id="Teatrix" tvg-logo="https://images.pluto.tv/channels/63ceb6ff60bc8f00088dc625/colorLogoPNG.png" group-title="Cine y Series",Teatrix
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63ceb6ff60bc8f00088dc625/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
-
 #EXTINF:-1 tvg-id="Trace Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/TRACE_Latina_Logo.png" group-title="Música",Trace Latina
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/encrypted.m3u8
 
 #EXTINF:-1 tvg-id="Trace Brazuca.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Trace_Brasil_logo.PNG" group-title="Música",Trace Brazuca
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/encrypted.m3u8
-
-#EXTINF:-1 tvg-id="Canal del tiempo" tvg-logo="https://cdn.prod.website-files.com/62067d72bbc8c16db7c95ddd/625a3b23f4d93fdd074ce97c_TWCE_Color%20(1)-p-500.jpeg" group-title="Noticias",Canal del tiempo
-http://linear-431.frequency.stream/dist/vix/431/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MTV Flow Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/MTV_Latino.png" group-title="Música",MTV Flow Latino
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62b218fc511d4b00070ddc0c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
@@ -804,22 +798,10 @@ https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 #EXTINF:-1 tvg-id="TRACE SPORTS" tvg-name="Trace Sports" audio-track="spa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TraceSSLogo.png" group-title="Deportes",Trace Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 
-#EXTINF:-1 tvg-id="VOA" tvg-name="VOA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/VOA_logo.png" group-title="Noticias",VOA 1
-https://voa-ingest.akamaized.net/hls/live/2033866/tvmc01/playlist.m3u8?DVR
-
-#EXTINF:-1 tvg-id="VOA" tvg-name="VOA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/VOA_logo.png" group-title="Noticias",VOA 2
-https://voa-ingest.akamaized.net/hls/live/2033870/tvmc04/playlist.m3u8?DVR
-
-#EXTINF:-1 tvg-id="VOA" tvg-name="VOA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/779px-NBC_logo.svg.png" group-title="Noticias",NBC White House
-https://voa-ingest.akamaized.net/hls/live/2033886/tvmc12/playlist.m3u8?DVR
-
-#EXTINF:-1 tvg-id="The White House Live" tvg-name="The White House Live" tvg-logo="" group-title="Noticias",The White House Live
-https://d3r7ms2cd6ecbc.cloudfront.net/out/v1/302f9e67d0524c55a01f2aece2e77872/index.m3u8?DVR
-
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="Noticias",CNN Service
 https://newsource-live.warnermediacdn.com/hls/live/2005450/intl01/master.m3u8
 
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="Noticias",CNN SService 2
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="Noticias",CNN Service 2
 https://newsource-live.warnermediacdn.com/hls/live/2005451/intl02/master.m3u8
 
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="Noticias",CNN Service 3
@@ -830,10 +812,6 @@ https://newsource-live.warnermediacdn.com/hls/live/2005453/intl04/master.m3u8
 
 #EXTINF:-1 tvg-id="TELERITMO.mx" tvg-name="Teleritmo" audio-track="spa" tvg-logo="https://www.lyngsat.com/logo/tv/tt/teleritmo-mx.png" group-title="Música",Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?uid=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq&sid=H35JGFJtTorKu8yyo7nztAy4KIUVgJkx&pid=uf6dMZlhGP30u0KO5TmWpO8utXYJqOKN&an=screen&at=web-app&av=v5.2.278&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=774x387&without_cookies=false&listenerid=&dnt=true
-
-#EXTINF:-1 tvg-id="CNN Brasil.br" tvg-name="CNN Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1024px-CNN_Brasil.svg.png" group-title="Noticias",CNN Brasil
-#KODIPROP:inputstream.adaptive.subtitles_enabled=false
-https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNN Brasil Money" tvg-name="CNN Brasil Money" tvg-logo="https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/10/cnn_money_logo.png" group-title="Noticias",CNN Brasil Money
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
@@ -942,9 +920,6 @@ https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="Música (Stingray)",Stingray Urban Beat
 https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="beIN SPORTS XTRA" tvg-name="beIN SPORTS XTRA" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="Deportes",beIN SPORTS XTRA
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5f89b39e-273a-43e4-8664-6b0d3d3b0fef
-
 #EXTINF:-1 tvg-id="Telemundo Telenovelas" tvg-name="Telemundo Telenovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1213px-Telemundo_logo_2018.svg.png" group-title="Cine y Series",Telemundo Telenovelas
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
@@ -963,23 +938,8 @@ https://nbcu-telemundowest-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemundo Puerto Rico" tvg-name="Puerto Rico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1213px-Telemundo_logo_2018.svg.png" group-title="Noticias",Telemundo Puerto Rico
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
 
-#EXTINF:-1 tvg-id="The Weather Channel" tvg-name="The Weather Channel" tvg-logo="https://cdn.prod.website-files.com/62067d72bbc8c16db7c95ddd/625a3b23f4d93fdd074ce97c_TWCE_Color%20(1)-p-500.jpeg" group-title="Noticias",The Weather Channel
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/627ae4fcf001df00074d6e5b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c4cd5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=df13c2c6-8880-4f3d-b7b6-a18acfcb3069
-
 #EXTINF:-1 tvg-id="cnn chile" tvg-name="CNN Chile" audio-track="spa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png" group-title="Noticias",CNN CHile
 https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8?DVR
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Nuevo_Logo_de_RTVE_Play_en_2023_%2B_2024.svg/640px-Nuevo_Logo_de_RTVE_Play_en_2023_%2B_2024.svg.png" group-title="Noticias",RTVE Play 1
-https://rtvelivestream.akamaized.net/rtvesec/oca/irtve01_main_1080.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Nuevo_Logo_de_RTVE_Play_en_2023_%2B_2024.svg/640px-Nuevo_Logo_de_RTVE_Play_en_2023_%2B_2024.svg.png" group-title="Noticias",RTVE Play 2
-https://rtvelivestream.akamaized.net/rtvesec/oca/irtve02_main_1080.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Nuevo_Logo_de_RTVE_Play_en_2023_%2B_2024.svg/640px-Nuevo_Logo_de_RTVE_Play_en_2023_%2B_2024.svg.png" group-title="Noticias",RTVE Play 3
-https://rtvelivestream.akamaized.net/rtvesec/oca/irtve03_main_1080.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Nuevo_Logo_de_RTVE_Play_en_2023_%2B_2024.svg/640px-Nuevo_Logo_de_RTVE_Play_en_2023_%2B_2024.svg.png" group-title="Noticias",RTVE Play 4
-https://rtvelivestream.akamaized.net/rtvesec/oca/irtve04_main_1080.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo Acción" tvg-name="Telemundo Acción" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1213px-Telemundo_logo_2018.svg.png" group-title="Cine y Series",Telemundo Accion
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
@@ -996,8 +956,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/668677b774f5ec0008124
 #EXTINF:-1 tvg-name="Love the Planet" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700002TD_20250304T115410SQUARE.png" group-title="Documentales",Love the Planet
 https://amg01821-lovetvchannels-lovetheplanetes-samsungspain-w1r0c.amagi.tv/playlist/amg01821-lovetvchannels-lovetheplanetes-samsungspain/cb563d187c6c638e84ce3878d5f462ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5aab6852db80148b6f4adafb8c2360625f5c98435ee3b24aaaade45b47893ff5ac1e409c2758e68314c9c94eb9d485469a418e7ff745cf93f5dad51888aaab5ff803f17a0848324297817496bb31dcb0814809ac4e06673370fbf9ed94233d82540d48fbc0d8ab77f61dc9fb48eb0b2c8f23a77cb002a3458d14fd9124c9acbfcc0c4236b4d45a1344ca84f0d0885f54bc62e8ecedd4770ef19c726377fa44fc3f7140fa9aca10978d1198a251e8de02060ce1a362bea99db3dbadd70af64bcbc3e7d63c525e5c000d8b5cab941fb543b16389fe231e7862698cb37bd9b4223f5a10273f18efb569798ce2c9e4ea1c2ecd751a439a18b339364dbcfae8e1875794a933799d2e4aa43838e9513681388dd0eb1215ba976c16bad0d347e966ebb00590b36a6d8a8e3870d1df03253f6878c0ef74193174c64bf0dc8ae572492de3f9d9fbd65a3c02365d3566eeb3b627cbde92617562b06ac038c2b51ab7a4afb45c7434a95be5be99de28798014282ee7e81252547893deb88582d9f089d415dce2f22326375562f2664b762e9b818457f9375c6d3a73b44f3513f3570102dd9cc7b3cddb2ed6ca30e378430473c9f520440b797a7745cec33f990db4d35592b3fe71e0a3cd1e4c8e39e326159ddbd325b8ce89d5400295e5064a31d98369953d7d8724d52d89c07997e50651526f163ab7e43ec856b7db95d038da7dfd3d6450de38eaccade3ac253c81b6453c3405506d0f717e3e03b5df9529404ce5b223e94af5a9328d4747382b48ce88620ddff016fcfdf6dedb05c6722125a35cd1f42deec3c6055f4e148c/39/848x480_1686360/index.m3u8
 
-#EXTINF:-1 tvg-name="MyPadel TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES30000091V_20241022T050555SQUARE.png" group-title="Deportes",MyPadel TV
-https://d1zpoa0s0okzmu.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h7omeoyf2i8uy/5320179a-8f9c-4747-aa5c-4f451dea2d50/0.m3u8
+
 
 #EXTINF:-1 tvg-name="Trailers" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700004PX_20241022T051134SQUARE.png" group-title="Cine y Series",Trailers
 https://amg01821-lovetvchannels-lovemagazinees-samsungspain-zll2b.amagi.tv/playlist/amg01821-lovetvchannels-lovemagazinees-samsungspain/cb563d187c6c638e84ce3878d5f462ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5aab6852db80148b6f4adafb8c2360625f5c98435ee3b24af7fcb309468e69a4ac1e409c2758e68314c9c915bc8385469d12d727a3159cc6f8df801888aeab54f803f17a0d56360ff4ea1288fd7c84fdbf5d16ac45351c5e3f88a297ed003d96577c58f7f2cab66b8d7da4e53ea050078424b762a519a476f075cd8d4fa4bef5de525106aac5566455cc8fca91da05038248da8fccc02902f39b157c548779db1d382c82f4c513f6ae7ffdad17a68b5a290ae9bf6286c7c2e986b18959d226c5d7e4994f2124025458f237ca9b69c867da7cb8dc6149362b5f8abe65f69b832d5a054e829310d01a1fcbb3e1e5c43e08e34406681301b3296dd554850d068718c0d85b599b330d90342489205fe271ddc8e2713ab99f6b08bacbd34abf4ee2b018dbf503d31c549ee501935e35684373c4eb7004347ccc07a1bb0e06c568728edae284ba773d173805460d86e7e96494cec42c5d3bce5d3265621913930b9c0eb565185179994e81e46100f43fc7755002327cfa154b4bc5fc2ea3e6e4ff0df2c2f82b2638582c903c0b326bc5bf895cf202861f1052ad007e4ab10b5b0dbfdb99a5d1b767c0986bbd2b223a5785a1470f590933540395c63c8c1efac549f0dbeb4cdce38825408717aa155fcb838b22abbbc18f6427a4877b55279bda2cc0330ac214df24c19253d0a25a0b1973111b94c004b10ff78fdaf42a9c2dbf464c2bb92ff5cfb5c1a30c3cd09844373c1e46572e02044b228c9a84344e2b96ff4d807ae9e452a5472e431c4fcc8d0d5bc6a5372b953b7a6fb2b389ec89cf101bde61e47faa3152f34f6cce802e995123d4f28deb2d2e39a23c983caac457e664d2/115/1280x720_3329040/index.m3u8
@@ -1014,22 +973,15 @@ https://cbd76eef.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYX
 #EXTINF:-1 tvg-id="FreeTV Hits" tvg-name="FreeTV Hits" tvg-logo="https://images.samsung.com/is/image/samsung/assets/mx/tvs/smart-tv/samsung-tv-plus/2023/SamsungTVPlus_PartnerAssets_FreeTVHits.png" group-title="Música",FreeTV Hits
 https://amg01024-olympusat-amg01024c5-lg-ar-1139.playouts.now.amagi.tv/playlist/amg01024-olympusatfast-flash-lgar/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVE LA 1" tvg-name="TVE LA 1" audio-track="spa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Logo_La_1.svg/960px-Logo_La_1.svg.png" group-title="España",La 1
-https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
-
-#EXTINF:-1 tvg-id="TVE" tvg-name="TVE" audio-track="spa" tvg-logo="https://i.ibb.co/ypn5DBD/tveint.png" group-title="España",TVE
-https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 
 #EXTINF:-1 tvg-id="STAR TVE" tvg-name="STAR TVE" audio-track="spa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="España",Star TVE
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
 
+
 #EXTINF:-1 tvg-id="Clan" tvg-name="Clan" audio-track="spa" tvg-logo="https://i.ibb.co/p4gTy4Y/Logo-Clan-HD.png" group-title="España",Clan
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_1080.m3u8
 
-#EXTINF:-1 tvg-id="Supertennis" tvg-name="Supertennis" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/640px-SuperTennis_-_Logo_2016.svg.png" group-title="Deportes",Supertennis
-https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
-
-#EXTINF:-1 tvg-id="T2" tvg-name="T2" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f03c74c1-e873-4346-beb0-804372660176/T2_1_1500_x_1000___Logo_Dark_BG_-_Ari_Brock.png" group-title="Deportes",T1
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-name="Tennis Channel 2" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f03c74c1-e873-4346-beb0-804372660176/T2_1_1500_x_1000___Logo_Dark_BG_-_Ari_Brock.png" group-title="Deportes",Tennis Channel 2
 https://d3qg0hadt0dkov.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sfgyrfz9zduo-prod/amgtennisus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tennis+" tvg-name="Tennis+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png" group-title="Deportes",Tennis+
@@ -1038,3 +990,64 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b30-6761f91555e1
 
 #EXTINF:-1 tvg-id="LA BOCINA LATINA" tvg-name="LA BOCINA LATINA" tvg-logo="hhttps://imgur.com/CdfnKup.png" group-title="Música",La Bocina Latina
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/master.m3u8
+
+#EXTINF:-1 tvg-id="ten1" tvg-name="Stream 1" group-title="Tennis",Stream 1
+https://cdn.realtvs.tv/hls/tennis1/chunks.m3u8
+#EXTINF:-1 tvg-id="ten2" tvg-name="Stream 2" group-title="Tennis",Stream 2
+https://cdn.realtvs.tv/hls/tennis2/chunks.m3u8
+#EXTINF:-1 tvg-id="ten3" tvg-name="Stream 3" group-title="Tennis",Stream 3
+https://cdn.realtvs.tv/hls/tennis3/chunks.m3u8
+#EXTINF:-1 tvg-id="ten4" tvg-name="Stream 4" group-title="Tennis",Stream 4
+https://cdn.realtvs.tv/hls/tennis4/chunks.m3u8
+#EXTINF:-1 tvg-id="ten5" tvg-name="Stream 5" group-title="Tennis",Stream 5
+https://cdn.realtvs.tv/hls/tennis5/chunks.m3u8
+#EXTINF:-1 tvg-id="ten6" tvg-name="Stream 6" group-title="Tennis",Stream 6
+https://cdn.realtvs.tv/hls/tennis6/chunks.m3u8
+#EXTINF:-1 tvg-id="ten7" tvg-name="Stream 7" group-title="Tennis",Stream 7
+https://cdn.realtvs.tv/hls/tennis7/chunks.m3u8
+#EXTINF:-1 tvg-id="ten8" tvg-name="Stream 8" group-title="Tennis",Stream 8
+https://cdn.realtvs.tv/hls/tennis8/chunks.m3u8
+#EXTINF:-1 tvg-id="ten9" tvg-name="Stream 9" group-title="Tennis",Stream 9
+https://cdn.realtvs.tv/hls/tennis9/chunks.m3u8
+#EXTINF:-1 tvg-id="ten10" tvg-name="Stream 10" group-title="Tennis",Stream 10
+https://cdn.realtvs.tv/hls/tennis10/chunks.m3u8
+#EXTINF:-1 tvg-id="ten11" tvg-name="Stream 11" group-title="Tennis",Stream 11
+https://cdn.realtvs.tv/hls/tennis11/chunks.m3u8
+#EXTINF:-1 tvg-id="ten12" tvg-name="Stream 12" group-title="Tennis",Stream 12
+https://cdn.realtvs.tv/hls/tennis12/chunks.m3u8
+#EXTINF:-1 tvg-id="ten13" tvg-name="Stream 13" group-title="Tennis",Stream 13
+https://cdn.realtvs.tv/hls/tennis13/chunks.m3u8
+#EXTINF:-1 tvg-id="ten14" tvg-name="Stream 14" group-title="Tennis",Stream 14
+https://cdn.realtvs.tv/hls/tennis14/chunks.m3u8
+#EXTINF:-1 tvg-id="ten15" tvg-name="Stream 15" group-title="Tennis",Stream 15
+https://cdn.realtvs.tv/hls/tennis15/chunks.m3u8
+#EXTINF:-1 tvg-id="ten16" tvg-name="Stream 16" group-title="Tennis",Stream 16
+https://cdn.realtvs.tv/hls/tennis16/chunks.m3u8
+#EXTINF:-1 tvg-id="ten17" tvg-name="Stream 17" group-title="Tennis",Stream 17
+https://cdn.realtvs.tv/hls/tennis17/chunks.m3u8
+#EXTINF:-1 tvg-id="ten18" tvg-name="Stream 18" group-title="Tennis",Stream 18
+https://cdn.realtvs.tv/hls/tennis18/chunks.m3u8
+#EXTINF:-1 tvg-id="ten19" tvg-name="Stream 19" group-title="Tennis",Stream 19
+https://cdn.realtvs.tv/hls/tennis19/chunks.m3u8
+#EXTINF:-1 tvg-id="ten20" tvg-name="Stream 20" group-title="Tennis",Stream 20
+https://cdn.realtvs.tv/hls/tennis20/chunks.m3u8
+#EXTINF:-1 tvg-id="ten21" tvg-name="Stream 21" group-title="Tennis",Stream 21
+https://cdn.realtvs.tv/hls/tennis21/chunks.m3u8
+#EXTINF:-1 tvg-id="ten22" tvg-name="Stream 22" group-title="Tennis",Stream 22
+https://cdn.realtvs.tv/hls/tennis22/chunks.m3u8
+#EXTINF:-1 tvg-id="ten23" tvg-name="Stream 23" group-title="Tennis",Stream 23
+https://cdn.realtvs.tv/hls/tennis23/chunks.m3u8
+#EXTINF:-1 tvg-id="ten24" tvg-name="Stream 24" group-title="Tennis",Stream 24
+https://cdn.realtvs.tv/hls/tennis24/chunks.m3u8
+#EXTINF:-1 tvg-id="ten25" tvg-name="Stream 25" group-title="Tennis",Stream 25
+https://cdn.realtvs.tv/hls/tennis25/chunks.m3u8
+#EXTINF:-1 tvg-id="ten26" tvg-name="Stream 26" group-title="Tennis",Stream 26
+https://cdn.realtvs.tv/hls/tennis26/chunks.m3u8
+#EXTINF:-1 tvg-id="ten27" tvg-name="Stream 27" group-title="Tennis",Stream 27
+https://cdn.realtvs.tv/hls/tennis27/chunks.m3u8
+#EXTINF:-1 tvg-id="ten28" tvg-name="Stream 28" group-title="Tennis",Stream 28
+https://cdn.realtvs.tv/hls/tennis28/chunks.m3u8
+#EXTINF:-1 tvg-id="ten29" tvg-name="Stream 29" group-title="Tennis",Stream 29
+https://cdn.realtvs.tv/hls/tennis29/chunks.m3u8
+#EXTINF:-1 tvg-id="ten30" tvg-name="Stream 30" group-title="Tennis",Stream 30
+https://cdn.realtvs.tv/hls/tennis30/chunks.m3u8
