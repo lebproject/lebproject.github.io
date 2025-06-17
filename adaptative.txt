@@ -311,11 +311,7 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 
 #EXTINF:-1 tvg-id="CNN Español.uy" tvg-name="CNN en Español" tvg-logo="https://raw.githubusercontent.com/lebproject/TVLogos/refs/heads/master/CNNE.png" group-title="Noticias",CNN en Español
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b20ed9da0e5457c9dfd3ae0b6092491:98997a7020c18cb28174a2490147830a
 https://amg00803-amg00803c3-rakuten-us-5347.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-rakutenus/playlist.m3u8
-//https://chromecast.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_Live_dash_enc_2A/CNN_en_Espanol.mpd
 
 
 #EXTINF:-1 tvg-id="DW ESPAÃOL.ar" tvg-name="DW Español" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64230_dark_360w_270h.png" group-title="Noticias",DW Español
