@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://www.open-epg.com/generate/Bxz2Wb0E7l.xml" refresh="3600" 
 
-#EXTINF:-1 tvg-id="EL TRECE.ar" tvg-name="El Trece" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16044_dark_360w_270h.png" group-title="Argentina",El Trece
+#EXTINF:-1 tvg-id="EL TRECE.ar" tvg-name="El Trece" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16044_dark_360w_270h.png" group-title="Argentina",El Trece 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -8,7 +8,7 @@
 https://chromecast.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd
 
 
-#EXTINF:-1 tvg-id="TELEFE.ar" tvg-name="Telefe" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s100066_dark_360w_270h.png" group-title="Argentina",Telefe
+#EXTINF:-1 tvg-id="TELEFE.ar" tvg-name="Telefe" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s100066_dark_360w_270h.png" group-title="Argentina",Telefe 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -16,7 +16,7 @@ https://chromecast.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.m
 https://chromecast.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd
 
 
-#EXTINF:-1 tvg-id="TV PUBLICA.ar" tvg-name="TV Pública" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16525_dark_360w_270h.png" group-title="Argentina",TV Pública
+#EXTINF:-1 tvg-id="TV PUBLICA.ar" tvg-name="TV Pública" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16525_dark_360w_270h.png" group-title="Argentina",TV Pública 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -24,7 +24,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.m
 https://chromecast.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_2A/Canal7.mpd
 
 
-#EXTINF:-1 tvg-id="EL GOURMET.ar" tvg-name="El Gourmet" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25553_dark_360w_270h.png" group-title="Cocina",El Gourmet
+#EXTINF:-1 tvg-id="EL GOURMET.ar" tvg-name="El Gourmet" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25553_dark_360w_270h.png" group-title="Cocina",El Gourmet 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -32,7 +32,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_2A/Canal7.mp
 https://chromecast.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc_2A/Gourmet.mpd
 
 
-#EXTINF:-1 tvg-id="FOOD NETWORK.ar" tvg-name="Food Network" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91919_dark_360w_270h.png" group-title="Cocina",Food Network
+#EXTINF:-1 tvg-id="FOOD NETWORK.ar" tvg-name="Food Network" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91919_dark_360w_270h.png" group-title="Cocina",Food Network 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -56,7 +56,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/o
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
 
-#EXTINF:-1 tvg-id="ESPN HD.uy" tvg-name="ESPN" audio-track="spa" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title="Deportes",ESPN
+#EXTINF:-1 tvg-id="ESPN HD.uy" tvg-name="ESPN" audio-track="spa" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title="Deportes",ESPN 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -64,7 +64,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/o
 https://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd
 
 
-#EXTINF:-1 tvg-id="ESPN 2 HD.uy" tvg-name="ESPN 2" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="Deportes",ESPN 2
+#EXTINF:-1 tvg-id="ESPN 2 HD.uy" tvg-name="ESPN 2" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="Deportes",ESPN 2 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -72,7 +72,7 @@ https://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.
 https://chromecast.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc_2A/ESPN2_Arg.mpd
 
 
-#EXTINF:-1 tvg-id="ESPN 3 HD.uy" tvg-name="ESPN 3" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73833_dark_360w_270h.png" group-title="Deportes",ESPN 3
+#EXTINF:-1 tvg-id="ESPN 3 HD.uy" tvg-name="ESPN 3" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73833_dark_360w_270h.png" group-title="Deportes",ESPN 3 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -80,7 +80,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc_2A/ESPN2_
 https://chromecast.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_2A/ESPN3.mpd
 
 
-#EXTINF:-1 tvg-id="ESPN 4 HD.uy" tvg-name="ESPN 4" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73833_dark_360w_270h.png" group-title="Deportes",ESPN 4
+#EXTINF:-1 tvg-id="ESPN 4 HD.uy" tvg-name="ESPN 4" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73833_dark_360w_270h.png" group-title="Deportes",ESPN 4 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -88,7 +88,7 @@ https://chromecast.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_2A/ESPN3.mpd
 https://chromecast.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd
 
 
-#EXTINF:-1 tvg-id="ESPN 5 HD.uy" tvg-name="ESPN 5" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73833_dark_360w_270h.png" group-title="Deportes",ESPN 5
+#EXTINF:-1 tvg-id="ESPN 5 HD.uy" tvg-name="ESPN 5" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73833_dark_360w_270h.png" group-title="Deportes",ESPN 5 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -96,7 +96,7 @@ https://chromecast.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd
 https://chromecast.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd
 
 
-#EXTINF:-1 tvg-id="ESPN 6 HD.uy" tvg-name="ESPN 6" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73833_dark_360w_270h.png" group-title="Deportes",ESPN 6
+#EXTINF:-1 tvg-id="ESPN 6 HD.uy" tvg-name="ESPN 6" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73833_dark_360w_270h.png" group-title="Deportes",ESPN 6 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -104,7 +104,7 @@ https://chromecast.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd
 https://chromecast.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSports3_UY.mpd
 
 
-#EXTINF:-1 tvg-id="ESPN 7 HD.uy" tvg-name="ESPN 7" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73833_dark_360w_270h.png" group-title="Deportes",ESPN 7
+#EXTINF:-1 tvg-id="ESPN 7 HD.uy" tvg-name="ESPN 7" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73833_dark_360w_270h.png" group-title="Deportes",ESPN 7 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -112,7 +112,7 @@ https://chromecast.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSp
 https://chromecast.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd
 
 
-#EXTINF:-1 tvg-id="TNT SPORTS PREMIUM.ar" tvg-name="TNT Sports" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69306_dark_360w_270h.png" group-title="Deportes",TNT Sports
+#EXTINF:-1 tvg-id="TNT SPORTS PREMIUM.ar" tvg-name="TNT Sports" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69306_dark_360w_270h.png" group-title="Deportes",TNT Sports 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -121,7 +121,7 @@ https://chromecast.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSp
 https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
 
 
-#EXTINF:-1 tvg-id="TYC SPORTS.ar" tvg-name="TyC Sports" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16275_dark_360w_270h.png" group-title="Deportes",TyC Sports
+#EXTINF:-1 tvg-id="TYC SPORTS.ar" tvg-name="TyC Sports" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16275_dark_360w_270h.png" group-title="Deportes",TyC Sports 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -129,7 +129,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TN
 https://chromecast.cvattv.com.ar/live/c5eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd
 
 
-#EXTINF:-1 tvg-id="ANIMAL PLANET.ar" tvg-name="Animal Planet" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18649_dark_360w_270h.png" group-title="Documentales",Animal Planet
+#EXTINF:-1 tvg-id="ANIMAL PLANET.ar" tvg-name="Animal Planet" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18649_dark_360w_270h.png" group-title="Documentales",Animal Planet 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -137,7 +137,7 @@ https://chromecast.cvattv.com.ar/live/c5eds/TyCSport/SA_Live_dash_enc/TyCSport.m
 https://chromecast.cvattv.com.ar/live/c7eds//AnimalPlanet/SA_Live_dash_enc_2A/AnimalPlanet.mpd
 
 
-#EXTINF:-1 tvg-id="DISCOVERY CHANNEL.ar" tvg-name="Discovery Channel" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="Documentales",Discovery Channel
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL.ar" tvg-name="Discovery Channel" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="Documentales",Discovery Channel 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -145,7 +145,7 @@ https://chromecast.cvattv.com.ar/live/c7eds//AnimalPlanet/SA_Live_dash_enc_2A/An
 https://chromecast.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc_2A/DiscoveryHD.mpd
 
 
-#EXTINF:-1 tvg-id="HOME and HEALTH.ar" tvg-name="Discovery H&H" audio-track="spa" tvg-logo="https://raw.githubusercontent.com/lebproject/TVLogos/refs/heads/master/HH.png" group-title="Documentales",Discovery H&H
+#EXTINF:-1 tvg-id="HOME and HEALTH.ar" tvg-name="Discovery H&H" audio-track="spa" tvg-logo="https://raw.githubusercontent.com/lebproject/TVLogos/refs/heads/master/HH.png" group-title="Documentales",Discovery H&H 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -153,7 +153,7 @@ https://chromecast.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc_2A/Disc
 https://chromecast.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc_2A/DiscoveryHomeHealthHD.mpd
 
 
-#EXTINF:-1 tvg-id="DISCOVERY KIDS.ar" tvg-name="Discovery Kids" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16680_dark_360w_270h.png" group-title="Documentales",Discovery Kids
+#EXTINF:-1 tvg-id="DISCOVERY KIDS.ar" tvg-name="Discovery Kids" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16680_dark_360w_270h.png" group-title="Documentales",Discovery Kids 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -161,7 +161,7 @@ https://chromecast.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_e
 https://chromecast.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc_2A/Discovery_Kids.mpd
 
 
-#EXTINF:-1 tvg-id="DISCOVERY SCIENCE.ar" tvg-name="Discovery Science" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48527_dark_360w_270h.png" group-title="Documentales",Discovery Science
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE.ar" tvg-name="Discovery Science" audio-track="spa" tvg-logo="https://raw.githubusercontent.com/lebproject/TVLogos/refs/heads/master/Disc.Science.png" group-title="Documentales",Discovery Science 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -169,7 +169,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc_2A/D
 https://chromecast.cvattv.com.ar/live/c6eds/Discovery_Science/SA_Live_dash_enc_2A/Discovery_Science.mpd
 
 
-#EXTINF:-1 tvg-id="DISCOVERY THEATER.ar" tvg-name="Discovery Theater" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65940_dark_360w_270h.png" group-title="Documentales",Discovery Theater
+#EXTINF:-1 tvg-id="DISCOVERY THEATER.ar" tvg-name="Discovery Theater" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65940_dark_360w_270h.png" group-title="Documentales",Discovery Theater 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -177,7 +177,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/Discovery_Science/SA_Live_dash_enc_2
 https://chromecast.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc_2A/Theater_HD.mpd
 
 
-#EXTINF:-1 tvg-id="DISCOVERY TURBO.ar" tvg-name="Discovery Turbo" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46608_dark_360w_270h.png" group-title="Documentales",Discovery Turbo
+#EXTINF:-1 tvg-id="DISCOVERY TURBO.ar" tvg-name="Discovery Turbo" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46608_dark_360w_270h.png" group-title="Documentales",Discovery Turbo 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -185,7 +185,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc_2A/Theat
 https://chromecast.cvattv.com.ar/live/c7eds//DiscoveryTurbo/SA_Live_dash_enc_2A/DiscoveryTurbo.mpd
 
 
-#EXTINF:-1 tvg-id="DISCOVERY WORLD.ar" tvg-name="Discovery World" audio-track="spa" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/i/discovery_world.png" group-title="Documentales",Discovery World
+#EXTINF:-1 tvg-id="DISCOVERY WORLD.ar" tvg-name="Discovery World" audio-track="spa" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/i/discovery_world.png" group-title="Documentales",Discovery World 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -193,7 +193,7 @@ https://chromecast.cvattv.com.ar/live/c7eds//DiscoveryTurbo/SA_Live_dash_enc_2A/
 https://chromecast.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_Live_dash_enc_2A/Discovery_World_HD.mpd
 
 
-#EXTINF:-1 tvg-id="HISTORY CHANNEL.ar" tvg-name="History" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="Documentales",History
+#EXTINF:-1 tvg-id="HISTORY CHANNEL.ar" tvg-name="History" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="Documentales",History 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -201,7 +201,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_Live_dash_enc_
 https://chromecast.cvattv.com.ar/live/c7eds//HistoryHD/SA_Live_dash_enc_2A/HistoryHD.mpd
 
 
-#EXTINF:-1 tvg-id="HISTORY 2.ar" tvg-name="History 2" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80374_dark_360w_270h.png" group-title="Documentales",History 2
+#EXTINF:-1 tvg-id="HISTORY 2.ar" tvg-name="History 2" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80374_dark_360w_270h.png" group-title="Documentales",History 2 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -209,7 +209,7 @@ https://chromecast.cvattv.com.ar/live/c7eds//HistoryHD/SA_Live_dash_enc_2A/Histo
 https://chromecast.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc_2A/History_2.mpd
 
 
-#EXTINF:-1 tvg-id="ID - INVESTIGATION DISCOVERY.ar" tvg-name="ID" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" group-title="Documentales",Discovery ID
+#EXTINF:-1 tvg-id="ID - INVESTIGATION DISCOVERY.ar" tvg-name="ID" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" group-title="Documentales",Discovery ID 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -217,14 +217,14 @@ https://chromecast.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc_2A/Histor
 https://chromecast.cvattv.com.ar/live/c7eds//ID/SA_Live_dash_enc_2A/ID.mpd
 
 
-#EXTINF:-1 tvg-id="NAT GEO.ar" tvg-name="National Geographic" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="Documentales",National Geographic
+#EXTINF:-1 tvg-id="NAT GEO.ar" tvg-name="National Geographic" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="Documentales",National Geographic 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4be0c61ceddc62294cc9e23b627af53d:852c1935d11c3c53d0a1ceff3bb3bf16
 https://chromecast.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc_2A/NatGeoHD.mpd
 
-#EXTINF:-1 tvg-id="CARTOON NETWORK.ar" tvg-name="Cartoon Network" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59562_dark_360w_270h.png" group-title="Infantiles",Cartoon Network
+#EXTINF:-1 tvg-id="CARTOON NETWORK.ar" tvg-name="Cartoon Network" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59562_dark_360w_270h.png" group-title="Infantiles",Cartoon Network 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -232,7 +232,7 @@ https://chromecast.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc_2A/NatGeoH
 https://chromecast.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc_2A/CartoonNetwork.mpd
 
 
-#EXTINF:-1 tvg-id="DISNEY CHANNEL.ar" tvg-name="Disney Channel" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41223_dark_360w_270h.png" group-title="Infantiles",Disney Channel
+#EXTINF:-1 tvg-id="DISNEY CHANNEL.ar" tvg-name="Disney Channel" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41223_dark_360w_270h.png" group-title="Infantiles",Disney Channel 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -240,7 +240,7 @@ https://chromecast.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc_2A/C
 https://chromecast.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc_2A/DisneyChannelHD.mpd
 
 
-#EXTINF:-1 tvg-id="Disney Jr HD.uy" tvg-name="Disney Junior" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60506_dark_360w_270h.png" group-title="Infantiles",Disney Junior
+#EXTINF:-1 tvg-id="Disney Jr HD.uy" tvg-name="Disney Junior" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60506_dark_360w_270h.png" group-title="Infantiles",Disney Junior 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -248,7 +248,7 @@ https://chromecast.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc_2A/
 https://chromecast.cvattv.com.ar/live/c7eds/DisneyJr/SA_Live_dash_enc_2A/DisneyJr.mpd
 
 
-#EXTINF:-1 tvg-id="NICK JR.ar" tvg-name="Nick Jr" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60295_dark_360w_270h.png" group-title="Infantiles",Nick Jr
+#EXTINF:-1 tvg-id="NICK JR.ar" tvg-name="Nick Jr" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60295_dark_360w_270h.png" group-title="Infantiles",Nick Jr 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -257,7 +257,7 @@ https://chromecast.cvattv.com.ar/live/c7eds/DisneyJr/SA_Live_dash_enc_2A/DisneyJ
 https://chromecast.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc_2A/Nick_Jr.mpd
 
 
-#EXTINF:-1 tvg-id="NICKELODEON.ar" tvg-name="Nickelodeon" audio-track="spa" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/n/i/nick_sg23_logo_rgb_ea.png" group-title="Infantiles",Nickelodeon
+#EXTINF:-1 tvg-id="NICKELODEON.ar" tvg-name="Nickelodeon" audio-track="spa" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/n/i/nick_sg23_logo_rgb_ea.png" group-title="Infantiles",Nickelodeon 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -265,7 +265,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc_2A/Nick_Jr.
 https://chromecast.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_2A/Nickelodeon.mpd
 
 
-#EXTINF:-1 tvg-id="HTV.ar" tvg-name="HTV" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15969_dark_360w_270h.png" group-title="Música",HTV
+#EXTINF:-1 tvg-id="HTV.ar" tvg-name="HTV" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15969_dark_360w_270h.png" group-title="Música",HTV 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -273,7 +273,7 @@ https://chromecast.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_2A/Nick
 https://chromecast.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc_2A/HTV.mpd
 
 
-#EXTINF:-1 tvg-id="CANAL DE LA MUSICA.ar" tvg-name="CM" audio-track="spa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png" group-title="Música",CM
+#EXTINF:-1 tvg-id="CANAL DE LA MUSICA.ar" tvg-name="CM" audio-track="spa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png" group-title="Música",CM 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -281,7 +281,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc_2A/HTV.mpd
 https://chromecast.cvattv.com.ar/live/c6eds/CM/SA_Live_dash_enc_2A/CM.mpd
 
 
-#EXTINF:-1 tvg-id="MTV.ar" tvg-name="MTV" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12712_dark_360w_270h.png" group-title="Música",MTV
+#EXTINF:-1 tvg-id="MTV.ar" tvg-name="MTV" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12712_dark_360w_270h.png" group-title="Música",MTV 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -289,7 +289,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/CM/SA_Live_dash_enc_2A/CM.mpd
 https://chromecast.cvattv.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc_2A/MTV_HD.mpd
 
 
-#EXTINF:-1 tvg-id="MTV 00s.es" tvg-name="MTV 00s" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90326_dark_360w_270h.png" group-title="Música",MTV 00s
+#EXTINF:-1 tvg-id="MTV 00s.es" tvg-name="MTV 00s" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90326_dark_360w_270h.png" group-title="Música",MTV 00s 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -297,7 +297,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc_2A/MTV_HD.mp
 https://chromecast.cvattv.com.ar/live/c7eds/MTV00/SA_Live_dash_enc_2A/MTV00.mpd
 
 
-#EXTINF:-1 tvg-id="MTV Hits.uy" tvg-name="MTV Hits" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67787_dark_360w_270h.png" group-title="Música",MTV Hits
+#EXTINF:-1 tvg-id="MTV Hits.uy" tvg-name="MTV Hits" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67787_dark_360w_270h.png" group-title="Música",MTV Hits 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -309,19 +309,20 @@ https://chromecast.cvattv.com.ar/live/c6eds/MTV_Hits/SA_Live_dash_enc_2A/MTV_Hit
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
-#EXTINF:-1 tvg-id="CNN Español.uy" tvg-name="CNN en Español" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17054_dark_360w_270h.png" group-title="Noticias",CNN en Español
+#EXTINF:-1 tvg-id="CNN Español.uy" tvg-name="CNN en Español" tvg-logo="https://raw.githubusercontent.com/lebproject/TVLogos/refs/heads/master/CNNE.png" group-title="Noticias",CNN en Español
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b20ed9da0e5457c9dfd3ae0b6092491:98997a7020c18cb28174a2490147830a
-https://chromecast.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_Live_dash_enc_2A/CNN_en_Espanol.mpd
+https://amg00803-amg00803c3-rakuten-us-5347.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-rakutenus/playlist.m3u8
+//https://chromecast.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_Live_dash_enc_2A/CNN_en_Espanol.mpd
 
 
 #EXTINF:-1 tvg-id="DW ESPAÃOL.ar" tvg-name="DW Español" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64230_dark_360w_270h.png" group-title="Noticias",DW Español
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 tvg-id="France 24.es" tvg-name="France 24 Español" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105780_dark_360w_270h.png" group-title="Noticias",France 24 Español
+#EXTINF:-1 tvg-id="France 24.es" tvg-name="France 24 Español" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105780_dark_360w_270h.png" group-title="Noticias",France 24 Español 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c8a3d29db38c4a9fa9a838c3d4d681db:d3aa374c4c0de33f463b4387a18297a6
@@ -329,7 +330,7 @@ https://chromecast.cvattv.com.ar/live/c3eds/France24_Flow/SA_Live_dash_enc/Franc
 
 
 
-#EXTINF:-1 tvg-id="LA NACION+.ar" tvg-name="LN+" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101238_dark_360w_270h.png" group-title="Noticias",LN+
+#EXTINF:-1 tvg-id="LA NACION+.ar" tvg-name="LN+" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101238_dark_360w_270h.png" group-title="Noticias",LN+ 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -337,7 +338,7 @@ https://chromecast.cvattv.com.ar/live/c3eds/France24_Flow/SA_Live_dash_enc/Franc
 https://chromecast.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc_2A/La_Nacion.mpd
 
 
-#EXTINF:-1 tvg-id="TVE.ar" tvg-name="TVE Internacional" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90320_dark_360w_270h.png" group-title="Noticias",TVE Internacional
+#EXTINF:-1 tvg-id="TVE.ar" tvg-name="TVE Internacional" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90320_dark_360w_270h.png" group-title="Noticias",TVE Internacional 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -345,7 +346,7 @@ https://chromecast.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc_2A/La_Nac
 https://chromecast.cvattv.com.ar/live/c6eds/TV_Espana/SA_Live_dash_enc_2A/TV_Espana.mpd
 
 
-#EXTINF:-1 tvg-id="A3 Cine HD.uy" tvg-name="A3 Cine" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82808_dark_360w_270h.png" group-title="Cine y Series",A3 Cine
+#EXTINF:-1 tvg-id="A3 Cine HD.uy" tvg-name="A3 Cine" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82808_dark_360w_270h.png" group-title="Cine y Series",A3 Cine 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -353,7 +354,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/TV_Espana/SA_Live_dash_enc_2A/TV_Esp
 https://chromecast.cvattv.com.ar/live/c7eds/A3_Cine/SA_Live_dash_enc_2A/A3_Cine.mpd
 
 
-#EXTINF:-1 tvg-id="AXN.ar" tvg-name="AXN" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17484_dark_360w_270h.png" group-title="Cine y Series",AXN
+#EXTINF:-1 tvg-id="AXN.ar" tvg-name="AXN" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17484_dark_360w_270h.png" group-title="Cine y Series",AXN 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -361,7 +362,7 @@ https://chromecast.cvattv.com.ar/live/c7eds/A3_Cine/SA_Live_dash_enc_2A/A3_Cine.
 https://chromecast.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc_2A/AXNHD.mpd
 
 
-#EXTINF:-1 tvg-id="CINEARTV.ar" tvg-name="Cinear.ar" audio-track="spa" tvg-logo="https://cdn.mitvstatic.com/channels/ar_incaa-tv_m.png" group-title="Cine y Series",Cinear.ar
+#EXTINF:-1 tvg-id="CINEARTV.ar" tvg-name="Cinear.ar" audio-track="spa" tvg-logo="https://cdn.mitvstatic.com/channels/ar_incaa-tv_m.png" group-title="Cine y Series",Cinear.ar 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -369,7 +370,7 @@ https://chromecast.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc_2A/AXNHD.mpd
 https://chromecast.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_Live_dash_enc_2A/INCAA_Tv.mpd
 
 
-#EXTINF:-1 tvg-id="CINEMAX.ar" tvg-name="CINEMAX" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16794_dark_360w_270h.png" group-title="Cine y Series",CINEMAX
+#EXTINF:-1 tvg-id="CINEMAX.ar" tvg-name="CINEMAX" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16794_dark_360w_270h.png" group-title="Cine y Series",CINEMAX 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -377,7 +378,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_Live_dash_enc_2A/INCAA_T
 https://chromecast.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_enc_2A/Cinemax.mpd
 
 
-#EXTINF:-1 tvg-id="FILM and ARTS.ar" tvg-name="Film & Arts" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87687_dark_360w_270h.png" group-title="Cine y Series",Film & Arts
+#EXTINF:-1 tvg-id="FILM and ARTS.ar" tvg-name="Film & Arts" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87687_dark_360w_270h.png" group-title="Cine y Series",Film & Arts 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -385,7 +386,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_enc_2A/Cinemax.
 https://chromecast.cvattv.com.ar/live/c6eds/Film_Arts/SA_Live_dash_enc_2A/Film_Arts.mpd
 
 
-#EXTINF:-1 tvg-id="Golden Premier HD.uy" tvg-name="Golden Premier" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png" group-title="Cine y Series",Golden Premier
+#EXTINF:-1 tvg-id="Golden Premier HD.uy" tvg-name="Golden Premier" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png" group-title="Cine y Series",Golden Premier 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -393,7 +394,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/Film_Arts/SA_Live_dash_enc_2A/Film_A
 https://chromecast.cvattv.com.ar/live/c6eds/Golden/SA_Live_dash_enc/Golden.mpd
 
 
-#EXTINF:-1 tvg-id="HBO.ar" tvg-name="HBO" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="Cine y Series",HBO
+#EXTINF:-1 tvg-id="HBO.ar" tvg-name="HBO" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="Cine y Series",HBO 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -401,7 +402,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/Golden/SA_Live_dash_enc/Golden.mpd
 https://chromecast.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd
 
 
-#EXTINF:-1 tvg-id="HBO 2.ar" tvg-name="HBO 2" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="Cine y Series",HBO 2
+#EXTINF:-1 tvg-id="HBO 2.ar" tvg-name="HBO 2" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="Cine y Series",HBO 2 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -409,7 +410,7 @@ https://chromecast.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd
 https://chromecast.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc_2A/HBO_2.mpd
 
 
-#EXTINF:-1 tvg-id="HBO FAMILY.ar" tvg-name="HBO Family" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="Cine y Series",HBO Family
+#EXTINF:-1 tvg-id="HBO FAMILY.ar" tvg-name="HBO Family" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="Cine y Series",HBO Family 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -417,7 +418,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc_2A/HBO_2.mpd
 https://chromecast.cvattv.com.ar///live/c6eds/HBO_Family/SA_Live_dash_enc_2A/HBO_Family.mpd
 
 
-#EXTINF:-1 tvg-id="HBO MUNDI.ar" tvg-name="HBO Mundi" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70081_dark_360w_270h.png" group-title="Cine y Series",HBO Mundi
+#EXTINF:-1 tvg-id="HBO MUNDI.ar" tvg-name="HBO Mundi" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70081_dark_360w_270h.png" group-title="Cine y Series",HBO Mundi 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -425,7 +426,7 @@ https://chromecast.cvattv.com.ar///live/c6eds/HBO_Family/SA_Live_dash_enc_2A/HBO
 https://chromecast.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc_2A/HBO_Mundi.mpd
 
 
-#EXTINF:-1 tvg-id="HBO POP.ar" tvg-name="HBO Pop" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68134_dark_360w_270h.png" group-title="Cine y Series",HBO Pop
+#EXTINF:-1 tvg-id="HBO POP.ar" tvg-name="HBO Pop" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68134_dark_360w_270h.png" group-title="Cine y Series",HBO Pop 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -433,7 +434,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc_2A/HBO_Mu
 https://chromecast.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc_2A/HBO_POP.mpd
 
 
-#EXTINF:-1 tvg-id="HBO SIGNATURE.ar" tvg-name="HBO Signature" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80120_dark_360w_270h.png" group-title="Cine y Series",HBO Signature
+#EXTINF:-1 tvg-id="HBO SIGNATURE.ar" tvg-name="HBO Signature" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80120_dark_360w_270h.png" group-title="Cine y Series",HBO Signature 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -441,7 +442,7 @@ https://chromecast.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc_2A/HBO_POP.
 https://chromecast.cvattv.com.ar/live/c6eds/HBO_Signature/SA_Live_dash_enc_2A/HBO_Signature.mpd
 
 
-#EXTINF:-1 tvg-id="HBO XTREME.ar" tvg-name="HBO Xtreme" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="Cine y Series",HBO Xtreme
+#EXTINF:-1 tvg-id="HBO XTREME.ar" tvg-name="HBO Xtreme" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="Cine y Series",HBO Xtreme 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -449,7 +450,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/HBO_Signature/SA_Live_dash_enc_2A/HB
 https://chromecast.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc_2A/HBO_Extreme.mpd
 
 
-#EXTINF:-1 tvg-id="HBO PLUS.ar" tvg-name="HBO+" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" group-title="Cine y Series",HBO+
+#EXTINF:-1 tvg-id="HBO PLUS.ar" tvg-name="HBO+" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" group-title="Cine y Series",HBO+ 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -457,7 +458,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc_2A/HBO_
 https://chromecast.cvattv.com.ar///live/c6eds/HBO_Plus/SA_Live_dash_enc_2A/HBO_Plus.mpd
 
 
-#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL.ar" tvg-name="Paramount" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106215_dark_360w_270h.png" group-title="Cine y Series",Paramount
+#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL.ar" tvg-name="Paramount" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106215_dark_360w_270h.png" group-title="Cine y Series",Paramount 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -465,7 +466,7 @@ https://chromecast.cvattv.com.ar///live/c6eds/HBO_Plus/SA_Live_dash_enc_2A/HBO_P
 https://chromecast.cvattv.com.ar/live/c7eds/Paramount/SA_Live_dash_enc_2A/Paramount.mpd
 
 
-#EXTINF:-1 tvg-id="SONY.ar" tvg-name="Sony HD" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s124605_dark_360w_270h.png" group-title="Cine y Series",Sony HD
+#EXTINF:-1 tvg-id="SONY.ar" tvg-name="Sony HD" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s124605_dark_360w_270h.png" group-title="Cine y Series",Sony HD 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -473,7 +474,7 @@ https://chromecast.cvattv.com.ar/live/c7eds/Paramount/SA_Live_dash_enc_2A/Paramo
 https://chromecast.cvattv.com.ar/live/c7eds//SonyHD/SA_Live_dash_enc_2A/SonyHD.mpd
 
 
-#EXTINF:-1 tvg-id="SPACE.ar" tvg-name="Space" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16499_dark_360w_270h.png" group-title="Cine y Series",Space
+#EXTINF:-1 tvg-id="SPACE.ar" tvg-name="Space" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16499_dark_360w_270h.png" group-title="Cine y Series",Space 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -481,7 +482,7 @@ https://chromecast.cvattv.com.ar/live/c7eds//SonyHD/SA_Live_dash_enc_2A/SonyHD.m
 https://chromecast.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc_2A/Space.mpd
 
 
-#EXTINF:-1 tvg-id="STAR CHANNEL HD.ar" tvg-name="Star Channel" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75423_dark_360w_270h.png" group-title="Cine y Series",Star Channel
+#EXTINF:-1 tvg-id="STAR CHANNEL HD.ar" tvg-name="Star Channel" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75423_dark_360w_270h.png" group-title="Cine y Series",Star Channel 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -489,7 +490,7 @@ https://chromecast.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc_2A/Space.mpd
 https://chromecast.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc_2A/FOXHD.mpd
 
 
-#EXTINF:-1 tvg-id="STUDIO UNIVERSAL.ar" tvg-name="Studio Universal" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png" group-title="Cine y Series",Studio Universal
+#EXTINF:-1 tvg-id="STUDIO UNIVERSAL.ar" tvg-name="Studio Universal" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png" group-title="Cine y Series",Studio Universal 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -497,14 +498,14 @@ https://chromecast.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc_2A/FOXHD.mpd
 https://chromecast.cvattv.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_enc_2A/Studio_Universal.mpd
 
 
-#EXTINF:-1 tvg-id="USA.ar" tvg-name="USA" audio-track="spa" tvg-logo="https://www.usanetwork.com/generetic/generated/images/22cb4c7e029716aa34d858d6f9fb18f3.png" group-title="Cine y Series",USA
+#EXTINF:-1 tvg-id="USA.ar" tvg-name="USA" audio-track="spa" tvg-logo="https://www.usanetwork.com/generetic/generated/images/22cb4c7e029716aa34d858d6f9fb18f3.png" group-title="Cine y Series",USA 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c754b522b3b87dc2ba2da3e35154ec14:141a51e9e83861ae99b4b217431710b3
 https://chromecast.cvattv.com.ar/live/c7eds/USA_Network/SA_Live_dash_enc/USA_Network.mpd
 
-#EXTINF:-1 tvg-id="TNT.ar" tvg-name="TNT" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71148_dark_360w_270h.png" group-title="Cine y Series",TNT
+#EXTINF:-1 tvg-id="TNT.ar" tvg-name="TNT" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71148_dark_360w_270h.png" group-title="Cine y Series",TNT 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -512,7 +513,7 @@ https://chromecast.cvattv.com.ar/live/c7eds/USA_Network/SA_Live_dash_enc/USA_Net
 https://chromecast.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc_2A/TNT_HD_Arg.mpd
 
 
-#EXTINF:-1 tvg-id="WARNER CHANNEL.ar" tvg-name="Warner Channel" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16213_dark_360w_270h.png" group-title="Cine y Series",Warner Channel
+#EXTINF:-1 tvg-id="WARNER CHANNEL.ar" tvg-name="Warner Channel" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16213_dark_360w_270h.png" group-title="Cine y Series",Warner Channel 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -520,7 +521,7 @@ https://chromecast.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc_2A/TNT_H
 https://chromecast.cvattv.com.ar/live/c7eds//WarnerHD/SA_Live_dash_enc_2A/WarnerHD.mpd
 
 
-#EXTINF:-1 tvg-id="ATRES SERIES.ar" audio-track="spa" tvg-name="A3 Series" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90917_dark_360w_270h.png" group-title="Cine y Series",A3 Series
+#EXTINF:-1 tvg-id="ATRES SERIES.ar" audio-track="spa" tvg-name="A3 Series" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90917_dark_360w_270h.png" group-title="Cine y Series",A3 Series 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -529,7 +530,7 @@ https://chromecast.cvattv.com.ar/live/c7eds//WarnerHD/SA_Live_dash_enc_2A/Warner
 https://chromecast.cvattv.com.ar/live/c7eds/A3_Series/SA_Live_dash_enc_2A/A3_Series.mpd
 
 
-#EXTINF:-1 tvg-id="AMC.ar" tvg-name="AMC" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="Cine y Series",AMC
+#EXTINF:-1 tvg-id="AMC.ar" tvg-name="AMC" audio-track="spa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="Cine y Series",AMC 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -537,7 +538,7 @@ https://chromecast.cvattv.com.ar/live/c7eds/A3_Series/SA_Live_dash_enc_2A/A3_Ser
 https://chromecast.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc_2A/AMC.mpd
 
 
-#EXTINF:-1 tvg-id="TNT SERIES.ar" audio-track="spa" tvg-name="TNT Series" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="Cine y Series",TNT Series
+#EXTINF:-1 tvg-id="TNT SERIES.ar" audio-track="spa" tvg-name="TNT Series" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="Cine y Series",TNT Series 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -545,7 +546,7 @@ https://chromecast.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc_2A/AMC.mpd
 https://chromecast.cvattv.com.ar/live/c3eds/TNTSeries/SA_Live_dash_enc_2A/TNTSeries.mpd
 
 
-#EXTINF:-1 tvg-id="Canal 10 HD.uy" tvg-name="Canal 10" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/Rse-logo-canal10-home.png/revision/latest/scale-to-width-down/200?cb=20171007013100" group-title="Uruguay",Canal 10
+#EXTINF:-1 tvg-id="Canal 10 HD.uy" tvg-name="Canal 10" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/Rse-logo-canal10-home.png/revision/latest/scale-to-width-down/200?cb=20171007013100" group-title="Uruguay",Canal 10 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -553,7 +554,7 @@ https://chromecast.cvattv.com.ar/live/c3eds/TNTSeries/SA_Live_dash_enc_2A/TNTSer
 https://chromecast.cvattv.com.ar/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU.mpd
 
 
-#EXTINF:-1 tvg-id="Canal 4 HD.uy" tvg-name="Canal 4 " tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQi24lzGJPdfhojo4sfalw9WLt9TtLEnOLx9lQJyw=s900-c-k-c0x00ffffff-no-rj" group-title="Uruguay",Canal 4
+#EXTINF:-1 tvg-id="Canal 4 HD.uy" tvg-name="Canal 4 " tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQi24lzGJPdfhojo4sfalw9WLt9TtLEnOLx9lQJyw=s900-c-k-c0x00ffffff-no-rj" group-title="Uruguay",Canal 4 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -561,7 +562,7 @@ https://chromecast.cvattv.com.ar/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10
 https://chromecast.cvattv.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_enc/Canal4_URU.mpd
 
 
-#EXTINF:-1 tvg-id="Canal 5 HD.uy" tvg-name="Canal 5" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_07/large.1218322618_914sinttulo_20210722203530.png.8195525ee24d262c9956adb592c8635b.png" group-title="Uruguay",Canal 5
+#EXTINF:-1 tvg-id="Canal 5 HD.uy" tvg-name="Canal 5" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_07/large.1218322618_914sinttulo_20210722203530.png.8195525ee24d262c9956adb592c8635b.png" group-title="Uruguay",Canal 5 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -570,7 +571,7 @@ https://chromecast.cvattv.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_enc/Canal4_U
 https://chromecast.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_enc_2A/TV_Nacional_Uy.mpd
 
 
-#EXTINF:-1 tvg-id="La Tele HD.uy" tvg-name="Teledoce" tvg-logo="https://www.teledoce.com/wp-content/uploads/2019/05/logo_tele2019.png" group-title="Uruguay",Teledoce
+#EXTINF:-1 tvg-id="La Tele HD.uy" tvg-name="Teledoce" tvg-logo="https://www.teledoce.com/wp-content/uploads/2019/05/logo_tele2019.png" group-title="Uruguay",Teledoce 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -578,7 +579,7 @@ https://chromecast.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_enc_2A/T
 https://chromecast.cvattv.com.ar/live/c4eds/Canal12URU/SA_Live_dash_enc/Canal12URU.mpd
 
 
-#EXTINF:-1 tvg-id="TV Ciudad HD.uy" tvg-name="TV Ciudad" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TVCiudad_logo_2020.png" group-title="Uruguay",TV Ciudad
+#EXTINF:-1 tvg-id="TV Ciudad HD.uy" tvg-name="TV Ciudad" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TVCiudad_logo_2020.png" group-title="Uruguay",TV Ciudad 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -586,7 +587,7 @@ https://chromecast.cvattv.com.ar/live/c4eds/Canal12URU/SA_Live_dash_enc/Canal12U
 https://chromecast.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc/Teve_Ciudad.mpd
 
 
-#EXTINF:-1 tvg-id="VTV HD.uy" tvg-name="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_VTV_nuevo.png/1200px-Logo_VTV_nuevo.png" group-title="Uruguay",VTV
+#EXTINF:-1 tvg-id="VTV HD.uy" tvg-name="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_VTV_nuevo.png/1200px-Logo_VTV_nuevo.png" group-title="Uruguay",VTV 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -594,7 +595,7 @@ https://chromecast.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc/Teve_Ci
 https://chromecast.cvattv.com.ar/live/c3eds/VTV_HD/SA_Live_dash_enc_2A/VTV_HD.mpd
 
 
-#EXTINF:-1 tvg-id="VTV Plus HD.uy" tvg-name="VTV Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo_VTV_Plus_nuevo.png/640px-Logo_VTV_Plus_nuevo.png" group-title="Uruguay",VTV Plus
+#EXTINF:-1 tvg-id="VTV Plus HD.uy" tvg-name="VTV Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo_VTV_Plus_nuevo.png/640px-Logo_VTV_Plus_nuevo.png" group-title="Uruguay",VTV Plus 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -602,7 +603,7 @@ https://chromecast.cvattv.com.ar/live/c3eds/VTV_HD/SA_Live_dash_enc_2A/VTV_HD.mp
 https://chromecast.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc/VTV_Plus_HD.mpd
 
 
-#EXTINF:-1 tvg-id="Telesur.es" tvg-name="Telesur" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Telesur.png" group-title="Noticias",teleSUR
+#EXTINF:-1 tvg-id="Telesur.es" tvg-name="Telesur" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Telesur.png" group-title="Noticias",teleSUR 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -610,7 +611,7 @@ https://chromecast.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc/VTV_Plu
 https://chromecast.cvattv.com.ar/live/c6eds/Telesur/SA_Live_dash_enc/Telesur.mpd
 
 
-#EXTINF:-1 tvg-id="TNT NOVELAS.ar" tvg-name="TNTNovelas" tvg-logo="https://i.imgur.com/ZNcRZFb.png" group-title="Cine y Series",TNT Novelas
+#EXTINF:-1 tvg-id="TNT NOVELAS.ar" tvg-name="TNTNovelas" tvg-logo="https://i.imgur.com/ZNcRZFb.png" group-title="Cine y Series",TNT Novelas 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -618,7 +619,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/Telesur/SA_Live_dash_enc/Telesur.mpd
 https://chromecast.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc_2A/TBS.mpd
 
 
-#EXTINF:-1 tvg-name="Dreamworks.es" audio-track="spa" tvg-logo="https://i.imgur.com/Socesag.png" group-title="Cine y Series",Dreamworks
+#EXTINF:-1 tvg-name="Dreamworks.es" audio-track="spa" tvg-logo="https://i.imgur.com/Socesag.png" group-title="Cine y Series",Dreamworks 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -626,7 +627,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc_2A/TBS.mpd
 https://chromecast.cvattv.com.ar/live/c7eds/Dreamworks/SA_Live_dash_enc_2A/Dreamworks.mpd
 
 
-#EXTINF:-1 tvg-name="DHE.ar" audio-track="spa" tvg-logo="https://canaldhe.com/wp-content/uploads/2019/09/logo-7-11.png" group-title="Cine y Series",DHE
+#EXTINF:-1 tvg-name="DHE.ar" audio-track="spa" tvg-logo="https://canaldhe.com/wp-content/uploads/2019/09/logo-7-11.png" group-title="Cine y Series",DHE 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -638,28 +639,28 @@ https://chromecast.cvattv.com.ar/live/c7eds/DHE/SA_Live_dash_enc/DHE.mpd
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="dnews.ar" tvg-logo="https://i.ibb.co/s68CvW1/DNews-2023.png" group-title="Noticias",DNews
+#EXTINF:-1 tvg-id="dnews.ar" tvg-logo="https://i.ibb.co/s68CvW1/DNews-2023.png" group-title="Noticias",DNews 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=21563d82cfb7fdd18b213f0bd92a274f:5940d8d0b57b9e6533e99cc0e7bf2f8e
 https://chromecast.cvattv.com.ar/live/c7eds/DNews/SA_Live_dash_enc/DNews.mpd
 
 
-#EXTINF:-1 tvg-id="Euronews.es" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EURON.png?raw=true" group-title="Noticias",Euronews
+#EXTINF:-1 tvg-id="Euronews.es" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EURON.png?raw=true" group-title="Noticias",Euronews 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d86b0f56d32f45adb0a6b4e488c8f0c2:e4f180b0e61be3e80ab602df5e56ff3f
 https://chromecast.cvattv.com.ar/live/c6eds/Euronews/SA_Live_dash_enc/Euronews.mpd
 
 
-#EXTINF:-1 tvg-id="Sun Channel HD.uy" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_8435_7_65257.png.f056a600d182fe0390e7fee0fb039ffb.png" group-title="Documentales",SUN Channel
+#EXTINF:-1 tvg-id="Sun Channel HD.uy" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_8435_7_65257.png.f056a600d182fe0390e7fee0fb039ffb.png" group-title="Documentales",SUN Channel 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=158177692aa3463eae5f4e1f72403e9c:1c6c026fba9cf7ecb576c7bedce0ead4
 https://chromecast.cvattv.com.ar/live/c6eds/Sun_Channel/SA_Live_dash_enc_2A/Sun_Channel.mpd
 
 
-#EXTINF:-1, tvg-name="Eventos" group-title="Uruguay", Eventos
+#EXTINF:-1, tvg-name="Eventos" group-title="Uruguay", Eventos 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -667,7 +668,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/Sun_Channel/SA_Live_dash_enc_2A/Sun_
 https://chromecast.cvattv.com.ar/live/c7eds/Eventos_HD_Uy/SA_Live_dash_enc_EXTRA/Eventos_HD_Uy.mpd
 
 
-#EXTINF:-1, tvg-name="Eventos1" group-title="Uruguay", Eventos 1
+#EXTINF:-1, tvg-name="Eventos1" group-title="Uruguay", Eventos 1 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -675,7 +676,7 @@ https://chromecast.cvattv.com.ar/live/c7eds/Eventos_HD_Uy/SA_Live_dash_enc_EXTRA
 https://chromecast.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc/Eventos1HD.mpd
 
 
-#EXTINF:-1, tvg-name="Eventos2" group-title="Uruguay", Eventos 2
+#EXTINF:-1, tvg-name="Eventos2" group-title="Uruguay", Eventos 2 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -692,7 +693,7 @@ https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/pl
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 
-#EXTINF:-1 tvg-id="Flow Music" tvg-name="Flow Music" audio-track="spa" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FMEVT.png?raw=true" group-title="Música",Flow Music Eventos
+#EXTINF:-1 tvg-id="Flow Music" tvg-name="Flow Music" audio-track="spa" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FMEVT.png?raw=true" group-title="Música",Flow Music Eventos 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -700,7 +701,7 @@ https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 https://chromecast.cvattv.com.ar/live/c7eds/Flow_Music_XP/SA_Live_dash_enc_2A/Flow_Music_XP.mpd
 
 
-#EXTINF:-1 tvg-id="Flow Music 1" tvg-name="Flow Music 1" audio-track="spa" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FMEVT.png?raw=true" group-title="Música",Flow Music 1
+#EXTINF:-1 tvg-id="Flow Music 1" tvg-name="Flow Music 1" audio-track="spa" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FMEVT.png?raw=true" group-title="Música",Flow Music 1 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -708,7 +709,7 @@ https://chromecast.cvattv.com.ar/live/c7eds/Flow_Music_XP/SA_Live_dash_enc_2A/Fl
 https://chromecast.cvattv.com.ar/live/c7eds/Flow_Music_1/SA_Live_dash_enc/Flow_Music_1.mpd
 
 
-#EXTINF:-1 tvg-id="Flow Music 2" tvg-name="Flow Music 2" audio-track="spa" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FMEVT.png?raw=true" group-title="Música",Flow Music 2
+#EXTINF:-1 tvg-id="Flow Music 2" tvg-name="Flow Music 2" audio-track="spa" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FMEVT.png?raw=true" group-title="Música",Flow Music 2 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -716,7 +717,7 @@ https://chromecast.cvattv.com.ar/live/c7eds/Flow_Music_1/SA_Live_dash_enc/Flow_M
 https://chromecast.cvattv.com.ar/live/c7eds/Flow_Music_2/SA_Live_dash_enc/Flow_Music_2.mpd
 
 
-#EXTINF:-1 tvg-id="Allegro HD.uy" tvg-name="AllegroHD" audio-track="spa" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_11214_7_189898.png.0304fc0120ecf5e9f6b3b1e7773259d7.png" group-title="Música",AllegroHD
+#EXTINF:-1 tvg-id="Allegro HD.uy" tvg-name="AllegroHD" audio-track="spa" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_11214_7_189898.png.0304fc0120ecf5e9f6b3b1e7773259d7.png" group-title="Música",AllegroHD 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -724,7 +725,7 @@ https://chromecast.cvattv.com.ar/live/c7eds/Flow_Music_2/SA_Live_dash_enc/Flow_M
 https://chromecast.cvattv.com.ar/live/c7eds/AllegroHD/SA_Live_dash_enc/AllegroHD.mpd
 
 
-#EXTINF:-1 tvg-id="E! ENTERTAINMENT.ar" tvg-name="E! Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/185px-E%21_Logo.svg.png" group-title="Cine y Series",E! Entertainment
+#EXTINF:-1 tvg-id="E! ENTERTAINMENT.ar" tvg-name="E! Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/185px-E%21_Logo.svg.png" group-title="Cine y Series",E! Entertainment 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -732,14 +733,14 @@ https://chromecast.cvattv.com.ar/live/c7eds/AllegroHD/SA_Live_dash_enc/AllegroHD
 https://chromecast.cvattv.com.ar/live/c6eds/E_Entertainment_Television/SA_Live_dash_enc_2A/E_Entertainment_Television.mpd
 
 
-#EXTINF:-1 tvg-id="AandE.ar" tvg-name="A&E" audio-track="spa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/A%26E_HD.png" group-title="Cine y Series",A&E
+#EXTINF:-1 tvg-id="AandE.ar" tvg-name="A&E" audio-track="spa" tvg-logo="https://raw.githubusercontent.com/lebproject/TVLogos/refs/heads/master/A&E-HD.png" group-title="Cine y Series",A&E 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=db12035627a4b3d7198b761f36b4a290:80ca761a875992ac0e50b0851d5563fe
 https://chromecast.cvattv.com.ar/live/c7eds//AEHD/SA_Live_dash_enc_2A/AEHD.mpd
 
-#EXTINF:-1 tvg-id="TLC HD.uy" tvg-name="Discovery TLC" audio-track="spa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo_TLC_HD.svg/540px-Logo_TLC_HD.svg.png" group-title="Documentales",Discovery TLC
+#EXTINF:-1 tvg-id="TLC HD.uy" tvg-name="Discovery TLC" audio-track="spa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo_TLC_HD.svg/540px-Logo_TLC_HD.svg.png" group-title="Documentales",Discovery TLC 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -777,7 +778,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="Tennis Channel" tvg-name="Tennis Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/587px-Tennis_Channel_logo.svg.png" group-title="Deportes",Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CNN Internacional.uy" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="Noticias",CNN
+#EXTINF:-1 tvg-id="CNN Internacional.uy" tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/lebproject/TVLogos/refs/heads/master/CNN.png" group-title="Noticias",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-id="VM Latino" tvg-name="VM Latino" tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/cropped-VM-GUY.png" group-title="Música",VM Latino
@@ -798,16 +799,16 @@ https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 #EXTINF:-1 tvg-id="TRACE SPORTS" tvg-name="Trace Sports" audio-track="spa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TraceSSLogo.png" group-title="Deportes",Trace Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="Noticias",CNN Service
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/lebproject/TVLogos/refs/heads/master/CNN.png" group-title="Noticias",CNN Service
 https://newsource-live.warnermediacdn.com/hls/live/2005450/intl01/master.m3u8
 
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="Noticias",CNN Service 2
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/lebproject/TVLogos/refs/heads/master/CNN.png" group-title="Noticias",CNN Service 2
 https://newsource-live.warnermediacdn.com/hls/live/2005451/intl02/master.m3u8
 
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="Noticias",CNN Service 3
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/lebproject/TVLogos/refs/heads/master/CNN.png" group-title="Noticias",CNN Service 3
 https://newsource-live.warnermediacdn.com/hls/live/2005452/intl03/master.m3u8
 
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="Noticias",CNN Service 4
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/lebproject/TVLogos/refs/heads/master/CNN.png" group-title="Noticias",CNN Service 4
 https://newsource-live.warnermediacdn.com/hls/live/2005453/intl04/master.m3u8
 
 #EXTINF:-1 tvg-id="TELERITMO.mx" tvg-name="Teleritmo" audio-track="spa" tvg-logo="https://www.lyngsat.com/logo/tv/tt/teleritmo-mx.png" group-title="Música",Teleritmo
@@ -816,6 +817,10 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?uid=s9Ns1p
 #EXTINF:-1 tvg-id="CNN Brasil Money" tvg-name="CNN Brasil Money" tvg-logo="https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/10/cnn_money_logo.png" group-title="Noticias",CNN Brasil Money
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 https://cdn-fast.nxtv.com.br/9978b7063e297d84e1cd5f21af3a88b1/cnnmoney/aovivo_abr/playlist.m3u8?channel_code=cnnmoney?token=5ebb3b53e2d3451fd788b6864b84364de2d37ed8-73fae8b191e3e386a4a3d2d2fb886acf-1731110573-1731067373
+
+#EXTINF:-1 tvg-id="CNN Brasil.br" tvg-name="CNN Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1024px-CNN_Brasil.svg.png" group-title="Noticias",CNN Brasil
+#KODIPROP:inputstream.adaptive.subtitles_enabled=false
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TraceUrban" tvg-name="Trace Urban" audio-track="spa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/800px-Trace_Urban_logo_2010.svg.png" group-title="Música",Trace Urban
 https://amg01131-tracetv-traceurban-klowdtv-utiqd.amagi.tv/playlist/amg01131-tracetv-traceurban-klowdtv/playlist.m3u8
