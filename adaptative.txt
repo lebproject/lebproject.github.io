@@ -815,7 +815,6 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?uid=s9Ns1p
 https://cdn-fast.nxtv.com.br/9978b7063e297d84e1cd5f21af3a88b1/cnnmoney/aovivo_abr/playlist.m3u8?channel_code=cnnmoney?token=5ebb3b53e2d3451fd788b6864b84364de2d37ed8-73fae8b191e3e386a4a3d2d2fb886acf-1731110573-1731067373
 
 #EXTINF:-1 tvg-id="CNN Brasil.br" tvg-name="CNN Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1024px-CNN_Brasil.svg.png" group-title="Noticias",CNN Brasil
-#KODIPROP:inputstream.adaptive.subtitles_enabled=false
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TraceUrban" tvg-name="Trace Urban" audio-track="spa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/800px-Trace_Urban_logo_2010.svg.png" group-title="Música",Trace Urban
