@@ -1065,7 +1065,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-xiaomi
 #EXTINF:-1 tvg-id="Freetv Estellar" tvg-name="Freetv Estellar" audio-track="spa" tvg-logo="https://raw.githubusercontent.com/lebproject/lebproject.github.io/main/logos/ftv_estelar.png" group-title="Cine y Series", Freetv Estellar
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-xiaomi/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Paka Paka.ar" tvg-name="Paka Paka" audio-track="spa" tvg-logo="https://raw.githubusercontent.com/lebproject/lebproject.github.io/main/logos/PAKAP.png" group-title="Infantiles",Paka Paka 🟡
+#EXTINF:-1 tvg-id="PAKA PAKA.ar" tvg-name="PAKA PAKA.ar" audio-track="spa" tvg-logo="https://raw.githubusercontent.com/lebproject/lebproject.github.io/main/logos/PAKAP.png" group-title="Infantiles",Paka Paka 🟡
 #KODIPROP:inputstream.adaptive.subtitles_enabled=false
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
