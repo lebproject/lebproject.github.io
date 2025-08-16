@@ -983,67 +983,6 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b30-6761f91555e1
 #EXTINF:-1 tvg-id="LA BOCINA LATINA" tvg-name="LA BOCINA LATINA" tvg-logo="hhttps://imgur.com/CdfnKup.png" group-title="Música",La Bocina Latina
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/master.m3u8
 
-#EXTINF:-1 tvg-id="ten1" tvg-name="Stream 1" group-title="Tennis",Stream 1
-https://cdn.realtvs.tv/hls/tennis1/chunks.m3u8
-#EXTINF:-1 tvg-id="ten2" tvg-name="Stream 2" group-title="Tennis",Stream 2
-https://cdn.realtvs.tv/hls/tennis2/chunks.m3u8
-#EXTINF:-1 tvg-id="ten3" tvg-name="Stream 3" group-title="Tennis",Stream 3
-https://cdn.realtvs.tv/hls/tennis3/chunks.m3u8
-#EXTINF:-1 tvg-id="ten4" tvg-name="Stream 4" group-title="Tennis",Stream 4
-https://cdn.realtvs.tv/hls/tennis4/chunks.m3u8
-#EXTINF:-1 tvg-id="ten5" tvg-name="Stream 5" group-title="Tennis",Stream 5
-https://cdn.realtvs.tv/hls/tennis5/chunks.m3u8
-#EXTINF:-1 tvg-id="ten6" tvg-name="Stream 6" group-title="Tennis",Stream 6
-https://cdn.realtvs.tv/hls/tennis6/chunks.m3u8
-#EXTINF:-1 tvg-id="ten7" tvg-name="Stream 7" group-title="Tennis",Stream 7
-https://cdn.realtvs.tv/hls/tennis7/chunks.m3u8
-#EXTINF:-1 tvg-id="ten8" tvg-name="Stream 8" group-title="Tennis",Stream 8
-https://cdn.realtvs.tv/hls/tennis8/chunks.m3u8
-#EXTINF:-1 tvg-id="ten9" tvg-name="Stream 9" group-title="Tennis",Stream 9
-https://cdn.realtvs.tv/hls/tennis9/chunks.m3u8
-#EXTINF:-1 tvg-id="ten10" tvg-name="Stream 10" group-title="Tennis",Stream 10
-https://cdn.realtvs.tv/hls/tennis10/chunks.m3u8
-#EXTINF:-1 tvg-id="ten11" tvg-name="Stream 11" group-title="Tennis",Stream 11
-https://cdn.realtvs.tv/hls/tennis11/chunks.m3u8
-#EXTINF:-1 tvg-id="ten12" tvg-name="Stream 12" group-title="Tennis",Stream 12
-https://cdn.realtvs.tv/hls/tennis12/chunks.m3u8
-#EXTINF:-1 tvg-id="ten13" tvg-name="Stream 13" group-title="Tennis",Stream 13
-https://cdn.realtvs.tv/hls/tennis13/chunks.m3u8
-#EXTINF:-1 tvg-id="ten14" tvg-name="Stream 14" group-title="Tennis",Stream 14
-https://cdn.realtvs.tv/hls/tennis14/chunks.m3u8
-#EXTINF:-1 tvg-id="ten15" tvg-name="Stream 15" group-title="Tennis",Stream 15
-https://cdn.realtvs.tv/hls/tennis15/chunks.m3u8
-#EXTINF:-1 tvg-id="ten16" tvg-name="Stream 16" group-title="Tennis",Stream 16
-https://cdn.realtvs.tv/hls/tennis16/chunks.m3u8
-#EXTINF:-1 tvg-id="ten17" tvg-name="Stream 17" group-title="Tennis",Stream 17
-https://cdn.realtvs.tv/hls/tennis17/chunks.m3u8
-#EXTINF:-1 tvg-id="ten18" tvg-name="Stream 18" group-title="Tennis",Stream 18
-https://cdn.realtvs.tv/hls/tennis18/chunks.m3u8
-#EXTINF:-1 tvg-id="ten19" tvg-name="Stream 19" group-title="Tennis",Stream 19
-https://cdn.realtvs.tv/hls/tennis19/chunks.m3u8
-#EXTINF:-1 tvg-id="ten20" tvg-name="Stream 20" group-title="Tennis",Stream 20
-https://cdn.realtvs.tv/hls/tennis20/chunks.m3u8
-#EXTINF:-1 tvg-id="ten21" tvg-name="Stream 21" group-title="Tennis",Stream 21
-https://cdn.realtvs.tv/hls/tennis21/chunks.m3u8
-#EXTINF:-1 tvg-id="ten22" tvg-name="Stream 22" group-title="Tennis",Stream 22
-https://cdn.realtvs.tv/hls/tennis22/chunks.m3u8
-#EXTINF:-1 tvg-id="ten23" tvg-name="Stream 23" group-title="Tennis",Stream 23
-https://cdn.realtvs.tv/hls/tennis23/chunks.m3u8
-#EXTINF:-1 tvg-id="ten24" tvg-name="Stream 24" group-title="Tennis",Stream 24
-https://cdn.realtvs.tv/hls/tennis24/chunks.m3u8
-#EXTINF:-1 tvg-id="ten25" tvg-name="Stream 25" group-title="Tennis",Stream 25
-https://cdn.realtvs.tv/hls/tennis25/chunks.m3u8
-#EXTINF:-1 tvg-id="ten26" tvg-name="Stream 26" group-title="Tennis",Stream 26
-https://cdn.realtvs.tv/hls/tennis26/chunks.m3u8
-#EXTINF:-1 tvg-id="ten27" tvg-name="Stream 27" group-title="Tennis",Stream 27
-https://cdn.realtvs.tv/hls/tennis27/chunks.m3u8
-#EXTINF:-1 tvg-id="ten28" tvg-name="Stream 28" group-title="Tennis",Stream 28
-https://cdn.realtvs.tv/hls/tennis28/chunks.m3u8
-#EXTINF:-1 tvg-id="ten29" tvg-name="Stream 29" group-title="Tennis",Stream 29
-https://cdn.realtvs.tv/hls/tennis29/chunks.m3u8
-#EXTINF:-1 tvg-id="ten30" tvg-name="Stream 30" group-title="Tennis",Stream 30
-https://cdn.realtvs.tv/hls/tennis30/chunks.m3u8
-
 #EXTINF:-1 tvg-id="Sony Comedias" tvg-name="Sony Comedias" audio-track="spa" tvg-logo="https://raw.githubusercontent.com/lebproject/lebproject.github.io/main/logos/SONY_COMEDIAS.png" group-title="Cine y Series", Sony Comedias
 https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
 
